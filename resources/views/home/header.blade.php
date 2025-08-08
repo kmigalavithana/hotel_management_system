@@ -36,6 +36,12 @@
                             <li class="nav-item">
                                 <a class="nav-link" href="contact.html">Contact Us</a>
                             </li>
+                            <li class="nav-item" style="padding-right: 10px;">
+                                <a class="btn btn-success" href="{{url('login')}}">LOGIN</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="btn btn-primary" href="{{url('register')}}">REGISTER</a>
+                            </li>
                         </ul>
                     </div>
                 </nav>
