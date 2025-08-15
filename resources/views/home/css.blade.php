@@ -1,4 +1,3 @@
-<!-- basic -->
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <!-- mobile metas -->
@@ -9,6 +8,7 @@
 <meta name="keywords" content="">
 <meta name="description" content="">
 <meta name="author" content="">
+<link href="https://fonts.googleapis.com/css?family=Muli:300,400,700" rel="stylesheet">
 <!-- bootstrap css -->
 <link rel="stylesheet" href="css/bootstrap.min.css">
 <!-- style css -->
